@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Basic_Processes_With_OpenGL_GLUT.cpp
+c:\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut.cpp(26): warning C4806: '|': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut.cpp(26): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+c:\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut\basic_processes_with_opengl_glut.cpp(90): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Basic_Processes_With_OpenGL_GLUT.vcxproj -> C:\Basic_Processes_With_OpenGL_GLUT\Debug\Basic_Processes_With_OpenGL_GLUT.exe

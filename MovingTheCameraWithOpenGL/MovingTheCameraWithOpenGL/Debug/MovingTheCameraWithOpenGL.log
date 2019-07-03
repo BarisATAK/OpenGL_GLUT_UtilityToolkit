@@ -1,0 +1,4 @@
+﻿  MovingTheCameraWithOpenGL.cpp
+c:\users\atakb\desktop\movingthecamerawithopengl\movingthecamerawithopengl\movingthecamerawithopengl.cpp(32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\atakb\desktop\movingthecamerawithopengl\movingthecamerawithopengl\movingthecamerawithopengl.cpp(36): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  MovingTheCameraWithOpenGL.vcxproj -> C:\Users\atakb\Desktop\MovingTheCameraWithOpenGL\Debug\MovingTheCameraWithOpenGL.exe
